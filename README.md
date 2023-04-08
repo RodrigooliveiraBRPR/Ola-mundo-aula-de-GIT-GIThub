@@ -3,4 +3,4 @@
  
  primeiro repositorio em aula curso em video
  
-estou alter  diretamente do site github
+estou alterando  diretamente do site github
